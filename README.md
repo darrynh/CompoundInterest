@@ -7,7 +7,11 @@ In order to calculate Compound Interest we need to use the formulae
 
 
 V = the future value of the investment
+
 P = the principal investment amount
+
 r = the annual interest rate
+
 n = the number of times that interest is compounded per year
+
 t = the number of years the money is invested for
