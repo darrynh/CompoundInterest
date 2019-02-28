@@ -15,3 +15,8 @@ r = the annual interest rate
 n = the number of times that interest is compounded per year
 
 t = the number of years the money is invested for
+
+
+I have done bonus work as follow:
+* Allowed you to select how often interest is compounded eg daily monthly and yearly
+* Allowed to calculate compound interest over longer period than 1 year
